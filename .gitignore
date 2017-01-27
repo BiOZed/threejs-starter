@@ -1,0 +1,5 @@
+/node_modules/
+/bower_components/
+/app/index.html
+/app/style.css
+/app/vendors.js
